@@ -99,15 +99,4 @@ The recommended future-state reporting framework introduces:
 
 ---
 
-## Author
 
-**Andril Aravazhi**
-
-Reporting & Analysis Volunteer
-
-Wellington, New Zealand
-
-LinkedIn: *(Add your LinkedIn profile link)*
-
-GitHub: *(Add your GitHub profile link)*# operational-reporting-transformation-strategy
-Independent consulting portfolio project analysing and redesigning the operational reporting framework of a Wellington-based nonprofit organisation.
